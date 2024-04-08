@@ -1,1 +1,1 @@
-console.log("Hello Lamas");
+console.log("Welcome to Coding Lamas");
